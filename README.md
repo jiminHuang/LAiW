@@ -397,4 +397,10 @@ eval_results/
   journal={GitHub repository},
   howpublished={\url{https://github.com/Dai-shen/LAiW}},
 }
+@article{dai2023laiw,
+  title={LAiW: A Chinese Legal Large Language Models Benchmark (A Technical Report)},
+  author={Dai, Yongfu and Feng, Duanyu and Huang, Jimin and Jia, Haochen and Xie, Qianqian and Zhang, Yifang and Han, Weiguang and Tian, Wei and Wang, Hao},
+  journal={arXiv preprint arXiv:2310.05620},
+  year={2023}
+}
 ```
